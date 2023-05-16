@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Ankit</name>
+        <idNumber>12345678</idNumber>
+        <contactNumber>021231232</contactNumber>
+    </student>
+    <student>
+        <name>JJ</name>
+        <idNumber>87654321</idNumber>
+        <contactNumber>0123456789</contactNumber>
+    </student>
+</students>

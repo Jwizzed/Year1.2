@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<admins>
+    <admin>
+        <name>Johe</name>
+        <idNumber>12345678</idNumber>
+        <contactNumber>0123456789</contactNumber>
+    </admin>
+</admins>
