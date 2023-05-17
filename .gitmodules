@@ -1,0 +1,3 @@
+[submodule "Equalize"]
+	path = Equalize
+	url = https://github.com/Jwizzed/Equalize.git
